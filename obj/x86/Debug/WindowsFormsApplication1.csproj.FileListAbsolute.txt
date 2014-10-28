@@ -1,0 +1,9 @@
+D:\Pablo\Colegio JFK\Introducc a la prog\Trabajos Practicos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Pablo\Colegio JFK\Introducc a la prog\Trabajos Practicos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Pablo\Colegio JFK\Introducc a la prog\Trabajos Practicos\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Pablo\Colegio JFK\Introducc a la prog\Trabajos Practicos\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Pablo\Colegio JFK\Introducc a la prog\Trabajos Practicos\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Pablo\Colegio JFK\Introducc a la prog\Trabajos Practicos\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Pablo\Colegio JFK\Introducc a la prog\Trabajos Practicos\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Pablo\Colegio JFK\Introducc a la prog\Trabajos Practicos\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Pablo\Colegio JFK\Introducc a la prog\Trabajos Practicos\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
